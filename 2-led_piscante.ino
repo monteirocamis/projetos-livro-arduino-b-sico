@@ -1,3 +1,5 @@
+// arquivo errado - codigo do projeto 2, tem que atualizar pto codigo do projeto 1 que nao esta aqui hehe
+
 // projeto 2 - LED sos
 int ledPin = 10;
 
